@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
    <section className="relative h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image with Parallax effect simulation via static bg */}
       <img 
-        src="public\hero-jewel-1.png" 
+        src="hero-jewel-1.png" 
         alt="Hero Background" 
         className="absolute inset-0 w-full h-full object-cover scale-110"
       />

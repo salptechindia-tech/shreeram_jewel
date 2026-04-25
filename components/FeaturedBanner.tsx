@@ -7,7 +7,7 @@ const FeaturedBanner: React.FC = () => {
   return (
     <section className="relative h-[60vh] md:h-[70vh] flex items-center overflow-hidden">
       <img 
-        src="public\bridal-category.png" 
+        src="bridal-category.png" 
         alt="Bridal Collection" 
         className="absolute inset-0 w-full h-full object-cover"
       />

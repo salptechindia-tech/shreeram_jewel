@@ -21,28 +21,28 @@ export const siteConfig = {
       id: 'gold',
       name: 'Exquisite Gold',
       description: 'Timeless designs in 22kt and 24kt gold.',
-      image: 'public/hero-jewel.jpg',
+      image: 'hero-jewel.jpg',
       subcategories: ['Necklaces', 'Bangles', 'Earrings', 'Rings']
     },
     {
       id: 'diamond',
       name: 'Brilliant Diamonds',
       description: 'Certified diamonds for every special moment.',
-      image: 'public/diamond-category.png',
+      image: 'diamond-category.png',
       subcategories: ['Engagement Rings', 'Pendants', 'Nose Pins']
     },
     {
       id: 'silver',
       name: 'Silver Articles',
       description: 'Traditional and contemporary silver collection.',
-      image: 'public/silver-category.png',
+      image: 'silver-category.png',
       subcategories: ['Pooja Items', 'Gift Articles', 'Dinnerware']
     },
     {
       id: 'bridal',
       name: 'Bridal Couture',
       description: 'Comprehensive wedding sets for the modern bride.',
-      image: 'public/bridal-category.png',
+      image: 'bridal-category.png',
       subcategories: ['Antique Sets', 'Temple Jewellery', 'Nakshi Designs']
     }
   ],
@@ -278,19 +278,7 @@ export const siteConfig = {
       ],
       tag: 'Heritage Piece'
     },
-    {
-      id: 'p17',
-      name: 'Pure Silver Ganesha Idol',
-      category: 'silver',
-      subcategory: 'Pooja Items',
-      price: 'Price on Inquiry',
-      description: 'Hand-sculpted solid silver Ganesha idol, ideal for gifting and home shrines.',
-      images: [
-   
-  
-      ],
-      tag: 'Auspicious'
-    },
+
 
     // ── BRIDAL ────────────────────────────────────────────────────────────
     {
