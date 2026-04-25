@@ -1,0 +1,7 @@
+{
+  "name": "Shriraam Jewellery",
+  "description": "A premium, mobile-first jewelry website for Shriraam Jewellery, Coimbatore. Features a trust-focused design, WhatsApp integration, and elegant collections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
