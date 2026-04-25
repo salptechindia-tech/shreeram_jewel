@@ -117,7 +117,8 @@ const Header: React.FC = () => {
           </nav>
 
           {/* Mobile Actions */}
-          <div className="flex md:hidden items-center gap-4">
+          {/* Mobile Actions */}
+          <div className="flex md:hidden items-center gap-4 relative z-50">
             <a 
               href={getWhatsAppLink()} 
               target="_blank" 
